@@ -29,7 +29,7 @@ A powerful and intelligent **MERN Stack** application to track, analyze, and pre
 
 ## 📸 Screenshots
 
-> *(Add screenshots of dashboard, charts, AI output, etc.)*
+<img width="1920" height="930" alt="Image" src="https://github.com/user-attachments/assets/8b9b7e22-6b8a-4e64-beef-72238889d843" />
 
 ---
 
