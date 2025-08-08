@@ -69,7 +69,7 @@ function AiSugges() {
             .map(([category, total]) => `${category}: ₹${total.toFixed(2)}`)
             .join(', ');
 
-        const prompt = `Act as a personal finance advisor for someone living in India who wants to plan their **daily budget for today** to stay on track with their **monthly savings goal**.\n
+        const prompt = `Act as a personal finance advisor for someone living in India who wants to plan their **daily budget for today** to stay on track with their **monthly savings goal  and by analysing the current expenses on each categories for allocating the budget for each categories**.\n
 Here is the user’s financial data:
 - Monthly Income: ₹${financialData.monthlyIncome.toFixed(2)} \n
 - Total Monthly Expenses So Far: ₹${financialData.totalExpense.toFixed(2)} \n
